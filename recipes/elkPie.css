@@ -1,0 +1,17 @@
+body {
+  max-width: 800px;
+  height: 300px;
+  display: flexbox;
+  text-align: center;
+  flex-direction: column;
+  background-color: bisque;
+  align-content: center;
+}
+.container#ingredientEP {
+  text-align: center;
+  background-color: beige;
+}
+#imageEP {
+  height: auto;
+  width: 500px;
+}
