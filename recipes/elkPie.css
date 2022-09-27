@@ -1,11 +1,7 @@
 body {
-  max-width: 800px;
+  max-width: 57vmin;
   height: 300px;
-  display: flexbox;
-  text-align: center;
-  flex-direction: column;
   background-color: bisque;
-  align-content: center;
 }
 .container#ingredientEP {
   text-align: center;
@@ -13,5 +9,5 @@ body {
 }
 #imageEP {
   height: auto;
-  width: 500px;
+  width: 57vmin;
 }
