@@ -1,13 +1,30 @@
-body {
-  max-width: 57vmin;
-  height: 300px;
+.mainContainer {
   background-color: bisque;
+  padding: 4vmin;
 }
-.container#ingredientEP {
+.container {
+  margin: 2vmin;
   text-align: center;
+  max-width: auto;
   background-color: beige;
 }
-#imageEP {
+#image {
   height: auto;
   width: 57vmin;
+}
+
+#mainImage {
+  text-align: center;
+}
+
+#ingredient {
+  max-width: auto;
+  text-align: justify;
+}
+
+#steps {
+  text-align: justify;
+}
+#title {
+  text-align: center;
 }
