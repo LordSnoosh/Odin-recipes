@@ -8,6 +8,13 @@
   max-width: auto;
   background-color: beige;
 }
+
+#navigation {
+  display: flexbox;
+  flex-direction: row;
+  padding: 2vmin;
+}
+
 #image {
   height: auto;
   width: 57vmin;
