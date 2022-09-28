@@ -1,3 +1,30 @@
-* {
+.mainContainer {
   background-color: bisque;
+  padding: 4vmin;
+}
+.container {
+  margin: 2vmin;
+  text-align: center;
+  max-width: auto;
+  background-color: beige;
+}
+#image {
+  height: auto;
+  width: 57vmin;
+}
+
+#mainImage {
+  text-align: center;
+}
+
+#ingredient {
+  max-width: auto;
+  text-align: justify;
+}
+
+#steps {
+  text-align: justify;
+}
+#title {
+  text-align: center;
 }
